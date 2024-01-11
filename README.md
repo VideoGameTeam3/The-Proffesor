@@ -4,7 +4,7 @@
 
 
 ### קישור לwiki: 
-
+https://github.com/VideoGameTeam3/The-Proffesor/wiki
 
 ## הסבר המשחק
 
