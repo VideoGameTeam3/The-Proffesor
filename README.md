@@ -12,7 +12,6 @@
 ## קישור למשחק
 [ClickHere](https://afinish.itch.io/el-professor)
 
-
 ### קישור לwiki:
 [Click Here](https://github.com/VideoGameTeam3/The-Proffesor/wiki)
 
