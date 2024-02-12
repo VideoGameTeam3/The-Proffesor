@@ -9,6 +9,9 @@
 
 במהלך המשחק השחקן עובר בין כל השחקנים ומבצע את המשימות השונות. המשחק נגמר בכך שהשחקן מצליח לברוח מהמטבעה עם סכום כסף גדול.
 
+## קישור למשחק
+[ClickHere](https://afinish.itch.io/el-professor)
+
 
 ### קישור לwiki:
 [Click Here](https://github.com/VideoGameTeam3/The-Proffesor/wiki)
